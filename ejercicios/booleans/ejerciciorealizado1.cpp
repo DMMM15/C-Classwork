@@ -1,4 +1,4 @@
-//verificar si un número es par o impar
+//verificar si un número es par o impar.
 #include <iostream>
 using namespace std;
 

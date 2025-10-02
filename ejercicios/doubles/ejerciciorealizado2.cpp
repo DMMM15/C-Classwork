@@ -1,4 +1,4 @@
-//clacular el area de un triangulo con base y altura en decimales
+//clacular el area de un triangulo con base y altura en decimales.
 #include <iostream>
 using namespace std;
 

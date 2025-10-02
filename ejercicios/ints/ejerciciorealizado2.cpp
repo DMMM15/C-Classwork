@@ -1,4 +1,4 @@
-//comprobar que si un número es multiplo de 3
+//comprobar que si un número es multiplo de 3.
 #include <iostream>
 using namespace std;
 

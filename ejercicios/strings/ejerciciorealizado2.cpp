@@ -1,4 +1,4 @@
-//contar las vocales de una palabra
+//contar las vocales de una palabra.
 #include <iostream>
 using namespace std;
 

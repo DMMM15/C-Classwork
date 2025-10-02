@@ -1,4 +1,4 @@
-//verficar la edad de una persona para saber si puede votar
+//verficar la edad de una persona para saber si puede votar.
 #include <iostream>
 using namespace std;
 

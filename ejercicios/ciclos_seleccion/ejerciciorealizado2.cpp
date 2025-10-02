@@ -1,4 +1,4 @@
-//Cambiar las calificaciones de números a letras
+//Cambiar las calificaciones de números a letras.
 #include <iostream>
 using namespace std;
 

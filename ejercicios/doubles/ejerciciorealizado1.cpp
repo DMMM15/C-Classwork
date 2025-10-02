@@ -1,4 +1,4 @@
-//calcular el promedio de 3 números decimales
+//calcular el promedio de 3 números decimales.
 #include <iostream>
 using namespace std;
 

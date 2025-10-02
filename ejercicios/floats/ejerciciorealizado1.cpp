@@ -1,4 +1,4 @@
-//calcular el area de un circulo
+//calcular el area de un circulo.
 #include <iostream>
 using namespace std;
 

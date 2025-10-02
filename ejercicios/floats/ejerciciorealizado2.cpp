@@ -1,4 +1,4 @@
-//convertir Kilometros en millas
+//convertir Kilometros en millas.
 #include <iostream>
 using namespace std;
 

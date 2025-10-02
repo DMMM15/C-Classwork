@@ -1,4 +1,4 @@
-//calcular el cuadrado de un número entero
+//calcular el cuadrado de un número entero.
 #include <iostream>
 using namespace std;
 

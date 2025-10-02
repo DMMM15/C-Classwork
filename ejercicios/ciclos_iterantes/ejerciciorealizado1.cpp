@@ -1,4 +1,4 @@
-// Imprimir los números desde el 1 hasta el 100
+// Imprimir los números desde el 1 hasta el 100.
 #include <iostream>
 using namespace std;
 

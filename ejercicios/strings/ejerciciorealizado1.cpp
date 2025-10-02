@@ -1,4 +1,4 @@
-//mostrar de forma invertida un texto
+//mostrar de forma invertida un texto.
 #include <iostream>
 #include <string>
 using namespace std;

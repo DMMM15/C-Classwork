@@ -1,4 +1,4 @@
-//Encontrar el mayor número entre 5 números
+//Encontrar el mayor número entre 5 números.
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-//la suma de todos los números hasta n número
+//la suma de todos los números hasta n número.
 #include <iostream>
 using namespace std;
 

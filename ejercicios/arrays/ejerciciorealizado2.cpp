@@ -1,4 +1,4 @@
-//Números ingresados arreglados en orden inverso
+//Números ingresados arreglados en orden inverso.
 #include <iostream>
 using namespace std;
 
